@@ -3,9 +3,6 @@
   
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjimmy0524&count_bg=%23F7D0D0&title_bg=%236398C4&icon=github.svg&icon_color=%23F7D0D0&title=github&edge_flat=false)
 
-[![JIMIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmy0524&include_all_commits=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/jimmy0524/github-readme-stats)
-
-
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
@@ -32,3 +29,5 @@
     <br>
 </div><br>
 </div>
+
+## 💻 project 💻
