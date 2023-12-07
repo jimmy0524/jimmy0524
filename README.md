@@ -29,13 +29,3 @@
     <br>
 </div><br>
 </div>
-
-## 💻 project 💻
-
-https://github.com/YongDuSaMa/BINARI_BackEnd
-<br>
-희귀병 정보 공유와 관리 커뮤니티 비나리
-<br>
-https://github.com/jimmy0524/Springboot-JPA-Blog
-<br>
-나만의 블로그 만들기
