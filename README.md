@@ -28,8 +28,8 @@
 
 ## 💻 study 💻
 <div style="display:flex; flex-direction:row;">
-    ###velog : https://velog.io/@jimmy0524/posts
-    ###solved.ac : https://solved.ac/profile/jm06160524
+    📌 velog : https://velog.io/@jimmy0524/posts <br>
+    📌 solved.ac : https://solved.ac/profile/jm06160524
 </div><br>
 
 </div>
