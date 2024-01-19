@@ -26,8 +26,9 @@
     <br>
 </div><br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jm06160524)](https://solved.ac/jm06160524/)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jm06160524)](https://solved.ac/jm06160524/)
+<br>
 ## 💻 study 💻
 <div style="display:flex; flex-direction:row;">
     📌 velog : https://velog.io/@jimmy0524/posts <br>
