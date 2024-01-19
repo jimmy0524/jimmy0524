@@ -6,9 +6,6 @@
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/jm_b8">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
     <a href="mailto:10jmin04@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
@@ -28,4 +25,13 @@
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
     <br>
 </div><br>
+
+## 💻 study 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://velog.io/@jimmy0524/posts">
+        <img src="![image](https://github.com/jimmy0524/jimmy0524/assets/98664227/08c2aea8-f55f-489a-9c22-5cf8faabef96)
+"> 
+    </a>
+</div><br>
+
 </div>
