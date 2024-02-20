@@ -30,8 +30,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jm06160524)](https://solved.ac/jm06160524/)
 <br>
 ## 💻 study 💻
-<div style="display:flex; flex-direction:row;">
-    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jimmy)](https://velog.io/@jimmy0524) 
-</div><br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jimmy)](https://velog.io/@jimmy0524) 
+
 
 </div>
