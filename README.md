@@ -31,7 +31,7 @@
 <br>
 ## 💻 study 💻
 <div style="display:flex; flex-direction:row;">
-    📌 velog : https://velog.io/@jimmy0524/posts <br>
+    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jimmy)](https://velog.io/@jimmy0524) 
 </div><br>
 
 </div>
