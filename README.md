@@ -36,8 +36,10 @@
 <p align="center">
   <a href="https://solved.ac/jm06160524/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jm06160524" />
+    <img src="https://topsolved.mayonedev.com/api/boj?handle=jm06160524&row=10">
   </a>
-</p>
+  </p>
+
 
 <!-- 경험 -->
 <h2 align="center">💼 Experience 💼</h2>
